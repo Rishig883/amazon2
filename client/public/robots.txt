@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /blog
+Allow: /successi-clienti
+Allow: /consulenza-amazon
+Allow: /servizi-ecommerce
+Allow: /contattaci
+
+Sitemap: https://amazon360.it/sitemap.xml
